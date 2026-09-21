@@ -1,6 +1,3 @@
-// WARNING!!! Make sure that you have either selected ESP32 Wrover Module,
-//            or another board which has PSRAM enabled
-// Adafruit ESP32 Feather
 #include "esp_http_server.h"
 #include "esp_timer.h"
 #include "esp_camera.h"
